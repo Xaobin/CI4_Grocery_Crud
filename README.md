@@ -1,7 +1,8 @@
 # CI4_Grocery_Crud
-# USO EXEMPLIFICADO DO GROCERY CRUD 
+## USO EXEMPLIFICADO DO GROCERY CRUD 
 
 >BANCO USADO: examples_database.sql
+>Versão do CodeIgniter: 4
 
 **Instalação**
 <li>Substituir a pasta app original pela app e public disponíveis  </li>
