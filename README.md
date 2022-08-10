@@ -1,5 +1,6 @@
 # CI4_Grocery_Crud
 ## USO EXEMPLIFICADO DO GROCERY CRUD 
+## GROCERY CRUD + CODEIGNITER
 
 >BANCO USADO: examples_database.sql
 
